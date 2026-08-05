@@ -1,0 +1,11 @@
+[
+    "No. of Pregnancy",
+    "Age",
+    "BMI",
+    "BP(Systolic)",
+    "BP(Diastolic)",
+    "DiabetesPedigreeFunction",
+    "Insulin",
+    "Skin Thickness(mm)",
+    "Glucose"
+]
